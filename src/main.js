@@ -95,8 +95,7 @@ function buildApp() {
       <header class="hero">
         <h1>Deconstruct your dating profile</h1>
         <p>
-          Social media can flatten real personality. This tool helps you see what your profile actually signals,
-          where it feels performative, and how to express yourself with grounded authenticity.
+          Social media killed not only romance, but authenticity.
         </p>
       </header>
 
