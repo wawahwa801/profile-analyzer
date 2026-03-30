@@ -1,6 +1,6 @@
 # Profile Analyzer
 
-You’re not dating. You’re branding.
+Social Media Killed Romance and Authenticity
 
 ## Overview
 
@@ -21,12 +21,16 @@ This project explores how social media encourages strategy over genuine connecti
 
 ## Tech Stack
 
-- HTML, CSS, JavaScript  
-- Optional LLM API for dynamic analysis  
+- JavaScript, Node.js, Python, Flask
+- LLM groq API for dynamic analysis  
 
 ## Setup
 
 ```bash
 git clone https://github.com/wawahwa801/profile-analyzer.git
 cd profile-analyzer
-open index.html
+cd backend
+source .venv/bin/activate
+python app.py
+cd ..
+npm run dev
